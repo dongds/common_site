@@ -1,13 +1,13 @@
-package com.example.asite;
+package com.example.commonsite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ASiteApplication {
+public class CommonSiteApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ASiteApplication.class, args);
+        SpringApplication.run(CommonSiteApplication.class, args);
     }
 
 }

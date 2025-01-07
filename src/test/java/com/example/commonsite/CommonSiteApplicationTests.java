@@ -1,10 +1,10 @@
-package com.example.asite;
+package com.example.commonsite;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ASiteApplicationTests {
+class CommonSiteApplicationTests {
 
     @Test
     void contextLoads() {
